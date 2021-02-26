@@ -1,0 +1,21 @@
+.cover__background{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    object-fit:cover;
+    object-position: top;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(42, 44, 47, 0.3);
+    transition: 0.8s;
+    text-decoration:none;
+    color:#fff;
+
+}
+
+.cover__background:hover{
+    background-color: #2A2C2F;
+    opacity: 0.8;
+    text-decoration:none;
+    margin: 0;
+}

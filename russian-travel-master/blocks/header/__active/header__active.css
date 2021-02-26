@@ -1,0 +1,27 @@
+.header__active{
+    max-width: 30px;
+    min-width: 28px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+    text-decoration-line:underline;
+    color: #FFFFFF;
+    margin-right: 18px;
+    font-family: Inter;
+}
+
+.header__active:hover{
+    max-width: 30px;
+    min-width: 28px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    text-decoration-line:underline;
+    color: #FFFFFF;
+    margin-right: 18px;
+    opacity: 0.6;
+}
